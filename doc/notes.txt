@@ -1,0 +1,16 @@
+1) Referenes
+
+- Basic Parallax Website With HTML & CSS
+(https://www.youtube.com/watch?v=JttTcnidSdQ)
+
+2) Key CSS Property
+
+---------------------
+background-attachment:scroll;
+---------------------
+
+- for div with backgroud image
+
+3) Use Media Query to Turn of Backround Scroll on Mobile Devices
+
+- Brad has noticed some issues
